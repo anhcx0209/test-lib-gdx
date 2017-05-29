@@ -6,7 +6,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
+ * Test basic collision
  * @author anhcx
  */
 public class BasicCollisionGroupTest {
